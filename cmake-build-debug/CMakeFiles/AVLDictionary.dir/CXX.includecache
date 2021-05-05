@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/AVL_ADT.h
+Dictionary_Node.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Dictionary_Node.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Data_Dictionary.h
+AVL_ADT.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/AVL_ADT.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Dictionary_Node.h
+utility
+-
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+fstream
+-
+iterator
+-
+queue
+-
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Interface.h
+Data_Dictionary.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Data_Dictionary.h
+Search.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Search.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Search.h
+Data_Dictionary.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Data_Dictionary.h
+
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/main.cpp
+iostream
+-
+Interface.h
+C:/Users/jerem/Desktop/Uni Resources/2019 Autumn/Data Structures and Algorithms/Assignments/Assignment 2/AVLDictionary/Interface.h
+
